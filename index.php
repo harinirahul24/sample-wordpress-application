@@ -1,5 +1,16 @@
-<h1>Tarun</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
 <?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
+
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
